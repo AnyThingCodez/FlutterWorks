@@ -1,4 +1,4 @@
-# ecommerceapp
+# sliderapp
 
 A new Flutter project.
 
